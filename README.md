@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0260-single-number-iii](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0260-single-number-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
