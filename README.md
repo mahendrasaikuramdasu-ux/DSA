@@ -13,5 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0260-single-number-iii](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0260-single-number-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mahendrasaikuramdasu-ux/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
